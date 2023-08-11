@@ -1,0 +1,7 @@
+﻿  ZagravaTest.cpp
+D:\Dev\Zagrava\ZagravaTest\ZagravaTest.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+D:\Dev\Zagrava\ZagravaTest\ZagravaTest.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+D:\Dev\Zagrava\ZagravaTest\ZagravaTest.cpp(69,11): warning C4018: '>=': signed/unsigned mismatch
+D:\Dev\Zagrava\ZagravaTest\ZagravaTest.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
+D:\Dev\Zagrava\ZagravaTest\ZagravaTest.cpp(131,21): warning C4018: '<': signed/unsigned mismatch
+  ZagravaTest.vcxproj -> D:\Dev\Zagrava\ZagravaTest\Debug\ZagravaTest.exe
